@@ -1,0 +1,7 @@
+Basic Markov Chain Model 
+Analyzing how running different plays in football can affect your winning percentage.
+Using college football data which, unfortunately, I cannot share. 
+The function, full_drive, can be used to simulate how often a team will score given their running and passing numbers
+You can edit these numbers to see how successful a drive resulting in a touchdown will be.
+This is especially useful when trying to correctly playcall must score possessions.
+Using run_to_score you can run the simulation for up to 100 possessions or until one team scores.
